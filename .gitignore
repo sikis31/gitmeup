@@ -1,0 +1,26 @@
+# Python artefacts
+__pycache__/
+*.pyc
+
+# Build artefacts
+gitmeup.egg-info/
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# API keys or local config
+.env
+.env.local
+.env.*
