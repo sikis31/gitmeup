@@ -41,11 +41,15 @@ pip install -e .
 pip install git+https://github.com/ikramagix/gitmeup
 ```
 
-Ensure `OPENAI_API_KEY` is configured:
+Ensure `GEMINI_API_KEY` is configured:
 
 ```bash
-export OPENAI_API_KEY="your-key"
+export GEMINI_API_KEY="your-key"
 ```
+
+You also need a model with:
+
+GITMEUP_MODEL="mymodel
 
 ## Usage
 
